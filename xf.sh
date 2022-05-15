@@ -88,6 +88,7 @@ echo "--------------------------------"
 echo "Fly App Name: ${FLY_APP_NAME}"
 echo "Fly App Region: ${FLY_REGION}"
 echo "V2Ray UUID: ${UUID}"
+cat /etc/v2ray/config.json
 echo "--------------------------------"
 
 # Run v2ray
